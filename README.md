@@ -1,2 +1,2 @@
 # Problemsolving
-Problem Solving using Java 
+My solutions to problems of geeksforgeeks, leetcode etc.
