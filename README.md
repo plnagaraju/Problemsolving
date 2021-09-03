@@ -1,2 +1,2 @@
 # Problemsolving
-My solutions to problems of geeksforgeeks, leetcode etc.
+My solutions to the problems of geeksforgeeks, leetcode etc.
