@@ -2,7 +2,8 @@
 
 class Solution {
     public int romanToInt(String S) {
-        int ans = 0, num = 0;
+        int ans = 0, 
+        int num = 0;
 
         for (int i = S.length()-1; i >= 0; i--) {
 
